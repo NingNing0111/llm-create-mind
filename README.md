@@ -12,7 +12,7 @@
 
 ## 实现效果
 
-![](https://pgthinker.me/wp-content/uploads/2025/06/Screenity-video-Jun-11-2025.gif)
+![](demo.gif)
 
 ## 提示词
 
