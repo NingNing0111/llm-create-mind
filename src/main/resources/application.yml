@@ -1,0 +1,9 @@
+server:
+  port: 8788
+  servlet:
+    context-path: /api
+spring:
+  ai:
+    openai:
+      api-key: Your_API_KEY
+      base-url: Your_Base_Url
