@@ -12,7 +12,7 @@
 
 ## 实现效果
 
-![](demo.gif)
+- [demo.gif](demo.gif)
 
 ## 提示词
 
